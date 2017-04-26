@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="pnombre">nombre</string>
+    <string name="pcant">0</string>
+    <string name="mContacto">Contactanos</string>
+    <string name="mAbout">Acerca de</string>
+    <string name="nombre_input">Nombre</string>
+    <string name="corre_input">Correo</string>
+    <string name="mensaje_input">Mensaje</string>
+    <string name="mensaje_enviado">Mensaje Enviado</string>
+    <string name="perfil_nombre">Lenon</string>
+    <string name="Bio">www.fb.com/LegendSwordOfficial</string>
+    <string name="identi">Adrian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
